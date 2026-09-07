@@ -1,0 +1,4 @@
+User-agents: *
+Allow: /
+
+Sitemap: https://kranthiaravelli.github.io/zuelofashion.com/sitemap.xml
